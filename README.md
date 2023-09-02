@@ -4,4 +4,4 @@ The project was completed between July 2022 and August 2022.
 # Desciption
 In this project, we designed and implemented a parallel query processor application using Java, making use of Java's ForkJoin framework and multithreading capabilities. 
 The primary goal was to efficiently process CSV datasets and demonstrate proficiency in optimizing
-data processing tasks through parallelization strategies.
+data processing tasks through parallelization and dynamic programming algorithm.
